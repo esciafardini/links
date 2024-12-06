@@ -26,18 +26,6 @@ marquee {
 
 }
 
-h1,
-h2 {
-  text-align: center;
-}
-
-h2 {
-  font-size: 2.1rem;
-  font-family: 'Chiller', sans-serif;
-  color: red;
-}
-
-
 a:hover {
   color: white;
   background-color: transparent;
@@ -50,15 +38,25 @@ a:link {
   text-decoration: none;
 }
 
+.heading {
+  margin-top: 3rem;
+  margin-bottom: .7rem;
+  font-size: 2.4rem;
+  font-family: 'Chiller', sans-serif;
+  color: red;
+  text-align: center;
+}
+
 .band {
   font-size: 1.4rem;
 }
 
 .fiction-title {
-  font-size: 1.3rem;
-  color: white;
+  margin-top: .5rem;
+  font-size: 1.4rem;
+  color: #B47BB6;
   text-shadow:
-    1px 1px 0 #000,
+    5px 5px 0 #000,
     -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
