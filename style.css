@@ -39,7 +39,7 @@ a:link {
 }
 
 .heading {
-  margin-top: 3rem;
+  margin-top: .3rem;
   margin-bottom: .7rem;
   font-size: 2.4rem;
   font-family: 'Chiller', sans-serif;
@@ -49,6 +49,10 @@ a:link {
 
 .band {
   font-size: 1.4rem;
+}
+
+.last {
+  margin-bottom: 1.2rem;
 }
 
 .fiction-title {
@@ -70,7 +74,7 @@ a:link {
 }
 
 .webmaster {
-  margin-top: 3rem;
+  margin-top: .3rem;
   align-self: center;
   animation: colorchange 60s alternate infinite;
 }
