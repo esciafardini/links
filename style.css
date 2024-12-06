@@ -52,7 +52,6 @@ a:link {
 }
 
 .fiction-title {
-  margin-top: .5rem;
   font-size: 1.4rem;
   color: #B47BB6;
   text-shadow:
@@ -71,7 +70,7 @@ a:link {
 }
 
 .webmaster {
-  margin: .7rem;
+  margin-top: 3rem;
   align-self: center;
   animation: colorchange 60s alternate infinite;
 }
