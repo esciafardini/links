@@ -1,0 +1,81 @@
+@import url('https://fonts.cdnfonts.com/css/chiller');
+
+/* for non-mobile */
+@media screen and (min-width: 800px) {
+  div,
+  a,
+  span,
+  h1,
+  h2 {
+    align-self: center;
+  }
+}
+
+body {
+  color: white;
+  background-image: url('bluedanz.gif');
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+marquee {
+  font-size: 1.5rem;
+  color: red;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.9rem;
+  font-family: 'Chiller', sans-serif;
+  color: red;
+}
+
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:link {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+.fiction-title {
+  font-size: 1.3rem;
+  -webkit-text-stroke: 1px black;
+  color: white;
+  text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.flex-ctx {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: left;
+}
+
+.webmaster {
+  margin: .7rem;
+  align-self: center;
+  animation: colorchange 60s alternate infinite;
+}
+
+@keyframes colorchange {
+  100% {
+    filter: hue-rotate(260deg);
+  }
+}
