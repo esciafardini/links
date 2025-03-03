@@ -14,9 +14,10 @@
 }
 
 body {
-  color: white;
-  background-image: url('bluedanz.gif');
-  font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+  color: black;
+  background-color: black;
+  /* background-image: url('bluedanz.gif'); */
+  font-family: "Chiller", "Comic Sans", sans-serif;
 }
 
 marquee {
