@@ -80,6 +80,10 @@ a:visited {
   align-items: left;
 }
 
+.full-height {
+  height: 100vh;
+}
+
 .webmaster {
   margin-top: .3rem;
   align-self: center;
