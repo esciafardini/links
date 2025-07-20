@@ -1,9 +1,9 @@
 .typewriter {
   font-family: monospace;
-  background-color: red;
+  background-color: black;
   color: white;
 }
 
 * {
-  background: white;
+  background: black;
 }
