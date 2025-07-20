@@ -17,9 +17,9 @@ for (let i = 0; i < welcText.length; i++) {
 
 
 const linkData = [
-  { href: 'tel:+14793343592', text: '479-334-3592: A Chat Bot (you should call)' },
-  { href: 'https://www.bruisermag.com/cage_goatman', text: 'Immature Self Centered Negativity Horror Audiobook' },
-  { href: 'https://www.evil.com', text: 'My new bands are recording and playing shows too alright' }
+  { href: 'tel:+14793343592', text: '479-334-3592: A Chat Bot' },
+  { href: 'https://www.bruisermag.com/cage_goatman', text: 'Immature Self Centered Negative Audiobook' },
+  { href: 'https://www.evil.com', text: 'My new bands are recording and playing shows' }
 ];
 
 
