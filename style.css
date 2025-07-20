@@ -1,3 +1,7 @@
 .typewriter {
   font-family: monospace;
 }
+
+* {
+  background: white;
+}
