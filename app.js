@@ -18,7 +18,7 @@ const linkData = [
   },
   {
     href: "https://www.evil.com",
-    text: "My new bands are recording and playing shows",
+    text: "New bands recording and playing shows",
   },
 ];
 
